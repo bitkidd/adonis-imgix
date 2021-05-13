@@ -1,9 +1,9 @@
-# Anonymous
-> Tagline
+# Adonis Imgix
+> adonis, imgix
 
 [![circleci-image]][circleci-url] [![npm-image]][npm-url] [![license-image]][license-url] [![typescript-image]][typescript-url]
 
-A short brief
+An Imgix provider for Adonis 5.x
 
 ## Installation
 
