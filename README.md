@@ -37,7 +37,7 @@ To properly configure the provider, follow the docs here: [`@imgix/core-js`](htt
 [npm-image]: https://img.shields.io/npm/v/@bitkidd/adonis-imgix/latest.svg?style=for-the-badge&logo=npm
 [npm-url]: https://www.npmjs.com/package/@bitkidd/adonis-imgix "npm"
 
-[license-image]: https://img.shields.io/npm/l/Anonymous?color=blueviolet&style=for-the-badge
+[license-image]: https://img.shields.io/npm/l/@bitkidd/adonis-imgix?color=blueviolet&style=for-the-badge
 [license-url]: LICENSE.md "license"
 
 [typescript-image]: https://img.shields.io/badge/Typescript-294E80.svg?style=for-the-badge&logo=typescript
