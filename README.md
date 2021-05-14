@@ -34,8 +34,8 @@ const url = Imgix.buildUrl('/test.jpg')
 
 To properly configure the provider, follow the docs here: [`@imgix/core-js`](https://github.com/imgix/js-core)
 
-[npm-image]: https://img.shields.io/npm/v/Anonymous.svg?style=for-the-badge&logo=npm
-[npm-url]: https://npmjs.org/package/Anonymous "npm"
+[npm-image]: https://img.shields.io/npm/v/@bitkidd/adonis-imgix/latest.svg?style=for-the-badge&logo=npm
+[npm-url]: https://www.npmjs.com/package/@bitkidd/adonis-imgix "npm"
 
 [license-image]: https://img.shields.io/npm/l/Anonymous?color=blueviolet&style=for-the-badge
 [license-url]: LICENSE.md "license"
