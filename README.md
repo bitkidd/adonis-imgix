@@ -1,7 +1,7 @@
 # Adonis Imgix
 > adonis, imgix
 
-[![circleci-image]][circleci-url] [![npm-image]][npm-url] [![license-image]][license-url] [![typescript-image]][typescript-url]
+[![npm-image]][npm-url] [![license-image]][license-url] [![typescript-image]][typescript-url]
 
 An Imgix provider for Adonis 5.x
 
@@ -26,7 +26,7 @@ This package depends on one main `ENV` variable, `IMGIX_DOMAIN`, please add it t
 ## Usage
 
 To use IMgix provider you should call it via import
-```
+```javascript
 import Imgix from '@ioc:Adonis/Addons/Imgix'
 
 const url = Imgix.buildUrl('/test.jpg')
