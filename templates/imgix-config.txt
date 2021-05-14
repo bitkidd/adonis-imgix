@@ -1,0 +1,8 @@
+import Env from '@ioc:Adonis/Core/Env'
+import { ImgixConfig } from '@ioc:Adonis/Addons/Imgix'
+
+// Imgix config
+export const imgix: ImgixConfig = {
+  domain: Env.get('IMGIX_DOMAIN'),
+  secureURLToken: Env.get('IMGIX_TOKEN'),
+}
