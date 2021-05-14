@@ -59,8 +59,7 @@
   "files": [
     "build/adonis-typings",
     "build/providers",
-    "build/templates",
-    "build/instructions.js"
+    "build/templates"
   ],
   "husky": {
     "hooks": {
